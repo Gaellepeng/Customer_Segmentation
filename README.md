@@ -11,4 +11,4 @@ The project aims to find out the customer segmentation for marketing refinement 
 ## To extract features and analyse:
   please refer to the full report  [8. "Hero Customers" Analysis]
 ## Reports
-   Please read with the access of Power BI public link:   [here](https://drive.google.com/file/d/1NL4v_rTv7lZWCd_lyzhhxpxHazNGeyAo/view)
+   Please read with the access of Power BI public link:   [here](https://drive.google.com/file/d/1p0semv3jyBR_1uyRYRrX6vQ-CHp0R3w2/view?usp=sharing)
