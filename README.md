@@ -7,8 +7,8 @@ The project aims to find out the customer segmentation for marketing refinement 
    - top10_user.csv
    - top10_userbehavior.csv 
 ## To read, check and clean the customers transaction data and shop infomation data:
-  Please refer to the full project report  [7.2 Customers Overview and Data Validation]
+  Please refer to the full project report '[7.2 Customers Overview and Data Validation](https://drive.google.com/file/d/1p0semv3jyBR_1uyRYRrX6vQ-CHp0R3w2/view?usp=sharing)'
 ## To extract features and analyse:
-  please refer to the full report  [8. "Hero Customers" Analysis]
+  please refer to the full report '[8. "Hero Customers" Analysis](https://drive.google.com/file/d/1p0semv3jyBR_1uyRYRrX6vQ-CHp0R3w2/view?usp=sharing)'
 ## Reports
-   Please read with the access of Power BI public link:   [here](https://drive.google.com/file/d/1p0semv3jyBR_1uyRYRrX6vQ-CHp0R3w2/view?usp=sharing)
+   Please read with the access of Power BI public link:   [here](https://app.powerbi.com/view?r=eyJrIjoiNmRiMGVlMjMtODcwZi00NjZjLTg1NTgtY2E2YjQ1YjAyYTBmIiwidCI6ImU5N2Q5OTExLTY1OTEtNGNjMy1iYjE4LTAxYmMxNmNmOTA3ZSJ9&pageName=ReportSection)
