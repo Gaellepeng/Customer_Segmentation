@@ -2,7 +2,7 @@
 ## Project Introduction
 The project aims to find out the customer segmentation for marketing refinement according to the Alibaba cloud data set.
 ## To sample the raw customers transaction dataset:
-- Data source: [here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=58&userId=1&lang=en-us)
+- Raw data source: [here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=58&userId=1&lang=en-us)
 - Data sampled: 
    - top10_user.csv
    - top10_userbehavior.csv 
