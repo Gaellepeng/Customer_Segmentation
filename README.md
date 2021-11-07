@@ -10,6 +10,7 @@ The project aims to find out the customer segmentation for marketing refinement 
 - Data sampled: 
    - top10_user.csv
    - top10_userbehavior.csv 
+   - top10_analysis.csv
 ## To read, check and clean the customers transaction data and shop infomation data:
   Please refer to the full jupyter report '[7.2 Customers Overview and Data Validation](https://github.com/Gaellepeng/Customer_Segmentation/blob/main/Customer_Segmentation_Analysis%20-%20Jupyter%20Notebook.pdf)'
 ## To extract features and analyse:
